@@ -66,4 +66,3 @@ Just press `q` in the terminal.
 ## Notes
 
 - Works only with **vless + reality** nodes from your subscription
-```
