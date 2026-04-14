@@ -4,7 +4,7 @@
 CONFIG_PATH="/opt/homebrew/etc/xray/config.json"
 PROXY_HOST="127.0.0.1"
 PROXY_PORT="1080"
-INTERFACES=("Wi-Fi", "Ethernet", "iPhone USB")
+INTERFACES=("Wi-Fi" "Ethernet" "iPhone USB")
 INI_FILE="./config.ini"
 
 # ----- COLORS -----
